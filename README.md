@@ -7,3 +7,6 @@ platform to trade on their behalf. The application provides real-time and update
 Bitcoin on an intuitive GUI to help nascent clients acclimate to the fundamentals of
 cryptocurrency trading. Traders can sign up in the application for clients to pick them as their
 official trader for all transactions.
+
+
+Report Link: https://drive.google.com/file/d/1Wg1Xk3jcAoXDPVWYDkaabD3h1ILtced8/view?usp=sharing
